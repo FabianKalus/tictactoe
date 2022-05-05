@@ -1,0 +1,19 @@
+html {
+    margin: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding: 0;
+    padding-block-start: 0;
+    padding-block-end: 0;
+}
+
+body {
+    margin: 0;
+}
+
+
+/* end */
+
+.d-none {
+    display: none;
+}
